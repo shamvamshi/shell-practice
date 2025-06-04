@@ -1,9 +1,9 @@
 #!/bin/bash
 
-PERSON1=TRUMP
-PERSON2=MUSK
+PERSON1=Trump
+PERSON2=Musk
 
-echo "$PERSON1: Hey MUSK, How are you?"
+echo "Trump: Hey MUSK, How are you?"
 echo "Musk:: Iam good Trump, How are you doing"
 echo "Trump: iam fine too. Whats up?"
 echo "Musk:: Nothing, just going to Sun now, will you come?"
