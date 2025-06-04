@@ -1,10 +1,10 @@
 #!/bin/bash
 
-PERSON1=Trump
-PERSON2=Musk
+$Person1=Modi    
+$Person2=Musk
 
-echo "Trump: Hey MUSK, How are you?"
-echo "Musk:: Iam good Trump, How are you doing"
-echo "Trump: iam fine too. Whats up?"
-echo "Musk:: Nothing, just going to Sun now, will you come?"
-echo "Trump: Sorry, you carry on! I will come once you come back"
+echo "$Person1: Hey $Person2, How are you?"
+echo "$Person2:: Iam good $Person1, How are you doing"
+echo "$Person1: iam fine too. Whats up?"
+echo "$Person2:: Nothing, just going to Sun now, will you come?"
+echo "$Person1: Sorry, you carry on! I will come once you come back"
