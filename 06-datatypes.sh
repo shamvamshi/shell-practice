@@ -9,5 +9,5 @@
 
 NUMBER1=200
 NUMBER2=200
- TIMESTAMP=$(DATE)
+ TIMESTAMP=$(date)
  echo "this script is executed at: $TIMESTAMP"
