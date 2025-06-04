@@ -44,9 +44,9 @@
     if [ $NUMBER1 is -gt 10 ]
 
     then
-    echo "given number is $NUMBER less than 10"
+    echo "given number $NUMBER less than 10"
     else
-         echo "given number is $NUMBER is greater than 10"
+         echo "given number $NUMBER is greater than 10"
 
     fi
 
